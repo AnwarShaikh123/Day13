@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e4fa115-62d2-46a7-bfe7-c7443a80058e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AddressBook" beforeDir="false" afterPath="$PROJECT_DIR$/../AddressBook" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxiNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxiNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EmpolyeeWage_Oops/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EmpolyeeWage_Oops/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EmpolyeeWage_Oops/.idea/modules.xml" beforeDir="false" />
@@ -34,7 +34,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -49,6 +49,7 @@
     "Application.CompareDigits.executor": "Run",
     "Application.CompareFloat.executor": "Run",
     "Application.CompareString.executor": "Run",
+    "Application.MaxiNum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
